@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://askr002.github.io/huddle-landing-page)
+- Live Site URL: [Click here](https://askr002.github.io/huddle-landing-page)
 
 ## My process
 
